@@ -2,7 +2,7 @@ lena
 ====
 The [Lena test image](http://en.wikipedia.org/wiki/Lenna):
 
-<img src="lena.png">
+<img src="https://raw.github.com/mikolalysenko/lena/master/lena.png">
 
 Install
 =======
