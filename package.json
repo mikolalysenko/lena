@@ -1,6 +1,6 @@
 {
   "name": "lena",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The Lena test image",
   "main": "lena.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "readmeFilename": "README.md",
   "gitHead": "98ac9af34c287aee3b8e0d028f61aa75c4797c7d",
   "dependencies": {
-    "ndarray": "*"
+    "ndarray": "*",
+    "base64-js": "0.0.2"
   }
 }
